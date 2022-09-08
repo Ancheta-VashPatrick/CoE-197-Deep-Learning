@@ -34,3 +34,5 @@ data
 wandb
 *ckpt
 lightning_logs/
+
+venv/
